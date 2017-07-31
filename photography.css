@@ -39,11 +39,11 @@ body {
 }
 
 div.gallery {
-    margin: 500px;
-	/*margin-left: 500px;*/
+    margin: 5px;
+	margin-left: 500px;
 	margin-top: 70px;
-	/*margin-right: 10px;
-    border: 1px solid #ccc;*/
+	margin-right: 10px;
+    /*border: 1px solid #ccc;*/
     float: center;
     /*width: 180px; */
 	display: inline-flex; 
