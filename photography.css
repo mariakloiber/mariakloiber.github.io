@@ -43,11 +43,11 @@ div.gallery {
 	margin-left: 500px;
 	margin-top: 70px;
 	margin-right: 0px;
-    /*border: 1px solid #ccc;*/
-    /*float: center;
-    /*width: 180px; */
-	/*display: inline-flex;*/ 
-	border: 10px solid #FFFFFF
+    /*border: 1px solid #ccc;
+    float: center;
+    width: 180px; */
+	display: inline-flex;
+	border: 10px solid #FFFFFF;
 }
 
 div.gallery:hover {
