@@ -42,12 +42,12 @@ div.gallery {
     margin: 5px;
 	margin-left: 500px;
 	margin-top: 70px;
-	margin-right: 0px;
-    /*border: 1px solid #ccc;
-    float: center;
+	margin-right: 10px;
+    border: 10px solid #FFFFFF;
+    /*float: center;
     width: 180px; 
-	display: inline-flex;*/
-	border: 10px solid #FFFFFF;
+	display: inline-flex;
+	border: 1px solid #ccc;*/
 }
 
 div.gallery:hover {
