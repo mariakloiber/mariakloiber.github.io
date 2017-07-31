@@ -47,10 +47,11 @@ div.gallery {
     float: center;
     /*width: 180px; */
 	display: inline-flex; 
+	border: 10px solid #FFFFFF
 }
 
 div.gallery:hover {
-    border: 30px solid #ffffff;
+    border: 10px solid #777;
 }
 
 div.gallery img {
