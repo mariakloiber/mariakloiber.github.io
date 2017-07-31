@@ -44,7 +44,7 @@ div.gallery {
 	margin-top: 70px;
 	margin-right: 10px;
     /*border: 1px solid #ccc;*/
-    float: center;
+    /*float: center;
     /*width: 180px; */
 	display: inline-flex; 
 	border: 10px solid #FFFFFF
