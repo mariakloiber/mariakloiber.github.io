@@ -43,7 +43,10 @@ body {
 	background-color: #666699; 
 }
 
-
+.w3-content header{
+	font-size: 24px;
+	align-items: center;
+}
 
 
 footer {
