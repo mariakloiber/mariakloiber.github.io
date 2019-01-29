@@ -35,8 +35,7 @@ h2 {
 	display: flex;
 	align-items: center;
 	background-image: url("Electric Fetus.jpg");
-	background-size: 100% 60%;
-	color: #F5F5F5;
+	color: #ffffff;
 	height: 520px;
 	width: 1000px;
 	text-shadow: 0.25px 0.25px 0.25px #000000;
@@ -65,7 +64,7 @@ section .row img {
 }
 
 body { 
-	background-color: #D3D3D3; 
+	background-color: #C0C0C0; 
 }
 
 footer {
