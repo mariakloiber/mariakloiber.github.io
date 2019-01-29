@@ -34,10 +34,9 @@ h2 {
 	margin-top: 15px;
 	display: flex;
 	align-items: center;
-	background-image: url("Electric Fetus.jpg");
+	background: url("Electric Fetus.jpg");
+	background-size: 100% 100%; 
 	color: #ffffff;
-	height: 520px;
-	width: 1000px;
 	text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
