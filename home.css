@@ -74,10 +74,19 @@ body {
 	background-size: 1500px 600px;
 }
 
+.sticky {
+	position: fixed;
+	top: 0;
+}
+
+.sticky + body{
+	padding-top: 102px
+}
+
 footer {
 	font-size: 12px;
 	font-color: black;
-	padding: 100px 0;
+	padding: 150px 0;
 }
 
 footer .col-sm-8 {
