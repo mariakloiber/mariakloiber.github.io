@@ -66,7 +66,8 @@ section .row img {
 body { 
 	background-color: #C0C0C0; 
 	background: url("Electric Fetus.jpg");
-	background-size: 100% 140%;
+	background-repeat: no-repeat;
+	background-size: 500px 1000px;
 }
 
 footer {
