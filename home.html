@@ -5,7 +5,7 @@
   <title>Maria E. Kloiber Personal Website</title>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
 		<link rel="stylesheet" type="text/css" href="home.css"/>
-    <link rel="stylesheet" type="text/js" href="home.js">
+    link rel="stylesheet" type="text/js" href="home.js">
 	</head>
 <body>
  <header class="container">
@@ -47,5 +47,21 @@
       </ul>
     </div>
   </footer>
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("myHeader");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+</script>
+
 </body>
 </html>
