@@ -32,13 +32,10 @@ header a {
 
 header h3 {
 	color: black;
-	padding-top: 30px;
+	padding: 130px;
 	margin-top: 30px;
 }
-header p {
-	padding: 50px;
-	color: black;	
-}
+
 
 section .row img {
 	margin: 0 0 30px;
