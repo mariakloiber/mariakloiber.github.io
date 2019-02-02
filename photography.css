@@ -51,11 +51,11 @@ body {
 
 div.gallery {
     margin: 5px;
-	margin-left: 70px;
+	margin-left: 50px;
 	margin-top: 30px;
 	margin-right: 10px;
     float: center;
-    width: 160px;
+    /*width: 160px;*/
 	display: inline-flex;
 	border: 10px solid #FFFFFF;
 }
