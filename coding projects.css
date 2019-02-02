@@ -30,6 +30,9 @@ header a {
 	color: black;
 }
 
+header h3 {
+	padding-top: 30px;
+}
 header p {
 	padding: 50px;
 	color: black;	
