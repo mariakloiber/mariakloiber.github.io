@@ -12,7 +12,7 @@ footer .row {
 
 header h1 { 
 	color: black; 
-	font-size: 36px;
+	font-size: 48px;
 }
 
 header nav {
@@ -44,7 +44,7 @@ h2 {
 	background-size: 100% 100%; 
 	color: #ffffff;
 	text-shadow: 0.25px 0.25px 0.25px #000000;
-}*/
+}
 
 .jumbotron h2 {
   font-size: 60px;
@@ -57,7 +57,7 @@ h2 {
 	font-size: 40px;
   margin: 0 0 20px;
   color: #fff;
-}
+}*/
 
 section .row img {
 	margin: 0 0 30px;

@@ -1,6 +1,7 @@
 header {
 	padding: 20px 0;
 	margin-bottom: 50;
+	background-color: white;
 }
 
 header .row, 
@@ -10,7 +11,7 @@ footer .row {
 }
 
 header h1 { 
-	color: white; 
+	color: black; 
 	font-size: 48px;
 }
 
