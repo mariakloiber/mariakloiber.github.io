@@ -35,6 +35,14 @@ header p {
 	color: black;	
 }
 
+h3 {
+	background-color: #666699; 
+}
+
+p {
+	background-color: #666699; 
+}
+
 section .row img {
 	margin: 0 0 30px;
 	width: 100%;
