@@ -49,6 +49,10 @@ body {
 	background-color: #666699; 
 }
 
+p {
+	background-color: white;
+}
+
 div.gallery {
     margin: 5px;
 	margin-left: 50px;
