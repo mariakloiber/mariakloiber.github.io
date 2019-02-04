@@ -58,6 +58,7 @@ div.gallery {
     width: 160px;
 	display: inline-flex;
 	border: 10px solid #FFFFFF;
+	image-orientation: from-image;
 }
 
 div.gallery:hover {
