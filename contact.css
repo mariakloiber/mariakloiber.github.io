@@ -133,12 +133,12 @@ input[type=submit]:hover {
 }
 
 div.gallery {
-	border: 10px solid #FFFFFF;
+	/*border: 10px solid #FFFFFF;
 	width: 645;
 	height: 829;
 	margin-left: 500px;
     float: center;
-	display: inline-flex;
+	display: inline-flex;*/
 } 
 
 footer {
