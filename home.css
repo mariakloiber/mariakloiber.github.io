@@ -33,7 +33,7 @@ h1 {
 h2 {
 	padding: 80px;
 	padding-left: 50px;
-	margin: 10;
+	margin: 0;
 	font-size: 60px;
 }
 
@@ -89,7 +89,7 @@ footer {
 	font-size: 12px;
 	font-color: black;
 	padding: 30px 0;
-	margin-top: 140px;
+	margin-top: 150px;
 }
 
 footer .col-sm-8 {
