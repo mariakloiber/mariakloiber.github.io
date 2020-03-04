@@ -73,7 +73,7 @@ body {
 	background-color: #C0C0C0; 
 	background: url("Electric Fetus.jpg");
 	background-repeat: no-repeat;
-	background-size: 1520px 690px;
+	background-size: 1520px 700px;
 }
 
 .sticky {
@@ -88,9 +88,8 @@ body {
 footer {
 	font-size: 12px;
 	font-color: black;
-	padding: 0px 70px; 
+	padding: 0px 0px; 
 	margin-top: 190px;
-	margin-right: 50px;
 }
 
 footer .col-sm-8 {
