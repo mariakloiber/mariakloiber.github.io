@@ -99,10 +99,10 @@ footer .col-sm-8 {
 
 footer ul {
 	list-style: none;
+	margin-right: -30px;
 }
 
 footer li img {
 	width: 32px;
 	height: 32px;
-	padding-right: -20px;
 }
