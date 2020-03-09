@@ -142,7 +142,7 @@ div.gallery {
 } 
 
 .btn {
-  background-color: DodgerBlue;
+  background-color: black;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -151,7 +151,7 @@ div.gallery {
 }
 
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: gray;
 }
 
 footer {
