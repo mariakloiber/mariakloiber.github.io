@@ -4,7 +4,12 @@ header {
 	background-color: white;
 }
 
-header .row, 
+header .row {
+	display: flex;
+	align-items: center;
+	margin-bottom: 50px;
+}
+
 footer .row {
 	display: flex;
 	align-items: center;
