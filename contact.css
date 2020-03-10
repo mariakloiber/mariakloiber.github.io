@@ -155,7 +155,8 @@ div.gallery {
   font-size: 20px;
   width: 420px;
   height: 60px;
-  margin-bottom: 70px;
+  margin-bottom: 40px;
+  margin-top: 20px;
 }
 
 .btn:hover {
