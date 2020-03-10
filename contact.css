@@ -7,7 +7,6 @@ header {
 header .row {
 	display: flex;
 	align-items: center;
-	margin-bottom: 50px;
 }
 
 footer .row {
@@ -71,6 +70,7 @@ section .row img {
 
 body { 
 	background-color: #b8c6db; 
+	padding: 50px;
 }
 
 .contact {
