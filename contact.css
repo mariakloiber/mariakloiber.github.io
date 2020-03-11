@@ -50,6 +50,10 @@ h2 {
 	color: black;
 }
 
+br {
+	line-height: 5px;
+}
+
 a {
 	color: black;
 }
