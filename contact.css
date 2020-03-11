@@ -63,6 +63,10 @@ p {
 	background-color: #b8c6db; 
 }
 
+info {
+	padding-bottom: 20px;
+}
+
 section .row img {
 	margin: 0 0 30px;
 	width: 100%;
