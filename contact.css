@@ -1,6 +1,7 @@
 header {
-	padding: 20px 0;
+	padding: 0px 0;
 	margin-bottom: 50;
+	background-color: white;
 }
 
 header .row, 
@@ -10,8 +11,12 @@ footer .row {
 }
 
 header h1 { 
-	color: white; 
+	color: black; 
 	font-size: 48px;
+}
+
+h1 {
+	padding: 20px;
 }
 
 header nav {
@@ -25,10 +30,12 @@ header a {
 	color: black;
 }
 
-header p {
-	padding: 50px;
-	color: black;	
+h2 {
+	padding: 20px;
+	margin: 0;
+	color: black;
 }
+
 
 section .row img {
 	margin: 0 0 30px;
@@ -40,72 +47,14 @@ section .row img {
 }
 
 body { 
-	background-color: #666699; 
+	background-color: #b8c6db; 
 }
 
-.contact {
-	margin: 5px;
-	margin-left: 10px;
-	margin-top: 10px;
-	margin-right: 10px;
-    border: 1px solid black;
-	display: flex;
-	align-items: center; 
-	background-size: cover;
+.w3-content h3{
+	font-size: 24px;
+	align-items: center;
 }
 
-.contact h2 {
-	font-size: 30px;
-	margin: 0;
-	color: black;
-}
-
-.contact h3 {
-	font-size: 40px;
-	margin: 0 0 20px;
-	color: black;
-}
-
-.contact p {
-	color: black;
-}
-
-.contact a {
-	color: black;
-}
-
-input[type=text], select, textarea {
-    width: 100%; /* Full width */
-    padding: 12px; /* Some padding */  
-    border: 1px solid #ccc; /* Gray border */
-    border-radius: 4px; /* Rounded borders */
-    box-sizing: border-box; /* Make sure that padding and width stays in place */
-    margin-top: 6px; /* Add a top margin */
-    margin-bottom: 16px; /* Bottom margin */
-    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
-}
-
-/* Style the submit button with a specific background color etc */
-input[type=submit] {
-    background-color: #4CAF50;
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-/* When moving the mouse over the submit button, add a darker green color */
-input[type=submit]:hover {
-    background-color: #45a049;
-}
-
-/* Add a background color and some padding around the form */
-.container {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
-} 
 
 footer {
 	font-size: 12px;
