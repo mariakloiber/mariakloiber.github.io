@@ -57,7 +57,7 @@ p {
 	color: black;
 }
 
-div.gallery {
+/*div.gallery {
     margin: 5px;
 	margin-left: 50px;
 	margin-top: 30px;
@@ -76,7 +76,7 @@ div.gallery:hover {
 div.gallery img {
     width: 100%;
     height: auto;
-}
+}*/
 
 div.desc {
     padding: 15px;
