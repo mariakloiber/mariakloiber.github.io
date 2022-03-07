@@ -106,7 +106,9 @@ footer li img {
 	height: 32px;
 }
 
-* {box-sizing:border-box}
+* {box-sizing: border-box}
+.mySlides1, .mySlides2 {display: none}
+img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
