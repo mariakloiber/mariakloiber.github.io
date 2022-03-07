@@ -116,9 +116,9 @@ footer li img {
 }
 
 /* Hide the images by default */
-.mySlides {
+/*.mySlides {
   display: none;
-}
+}*/
 
 /* Next & previous buttons */
 .prev, .next {
