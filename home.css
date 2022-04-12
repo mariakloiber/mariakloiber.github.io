@@ -73,6 +73,7 @@ body {
 	background: url("Lake Harriet.jpg");
 	background-repeat: no-repeat;
 	background-size: 1520px 700px;
+	margin: 0;
 }
 
 .sticky {
